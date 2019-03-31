@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="username">Nome de Usuário</string>
+    <string name="password">Senha</string>
+    <string name="textButtonlogin">login</string>
+    <string name="textButtonRegister">Registrar</string>
+    <string name="password2">Confirme a senha</string>
+    <string name="textRegister">Para registrar, confirme a senha abaixo</string>
+</resources>
